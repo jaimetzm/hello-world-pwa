@@ -4,8 +4,6 @@ Doing the hello world for PWA so I can quickly iterate and check if I understand
 
 ## Definition of Done
 
-## Hello world PWA: definition of done
-
 - [ ] Code runs locally with Live Server, no errors in the Console
 - [ ] Manifest and service worker show no errors in DevTools > Application
 - [ ] Installs from Chrome on the laptop and opens in its own window
